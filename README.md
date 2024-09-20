@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fabiano Abbey
-- 👀 I’m interested in C,Lua,and Python
+- 👀 I’m interested in C,Flutter,and Python
 - 🌱 I’m currently learning C and Python
 - 📫 How to reach me --> abbeyfabiano@gmail.com
 
